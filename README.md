@@ -1,5 +1,9 @@
 ![Untitled-2](https://user-images.githubusercontent.com/52716203/83064761-3b437980-a05a-11ea-96f6-49ad539c5cf3.png)
-<p align="center"> <a href="https://www.buymeacoffee.com/tahiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a> <p>
+
+:moneybag: **Feeling Generous? Help Support Me** :moneybag:
+
+<a href="https://paypal.me/yassertahiri" target="_blank">
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 
 # Tools
 
