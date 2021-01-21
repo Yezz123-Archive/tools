@@ -441,23 +441,6 @@ while loop:
             menu()
         else:
             break
-            os.system("pkg update -y")
-            os.system("pkg install -y git")
-            os.system("pkg install -y python2")
-            os.system("cd /data/data/com.termux/files/home && git clone https://github.com/reverse-shell/routersploit.git")
-            os.system("cd /data/data/com.termux/files/home && cd routersploit")
-            os.system("pip2 install -r requirements.txt")
-            os.system("pip2 install -r requirements-dev.txt")
-            os.system("pip2 install -r requests")
-            print("====================================")
-            print("[+] routersploit installed successfully :)")
-            print("[+] Go to routersploit folder and type 'python2 rsf.py' to start.")
-            print("====================================")
-            rmenu = input("[?] Back to Menu? (y/n): ")
-            if rmenu == "y":
-                menu()
-            else:
-                break
     elif what == "99":
         print("Good Bye & remember Fuck the Police.   tools created by Yezz123.....")
         break
