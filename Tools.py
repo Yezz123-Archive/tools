@@ -1,9 +1,3 @@
-#  Apache License
-#                           Version 2.0, January 2004
-#                        http://www.apache.org/licenses/
-#
-#  TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
 import os
 
 def menu():
@@ -15,20 +9,10 @@ def menu():
    ██║   ██║   ██║██║   ██║██║     ╚════██║
    ██║   ╚██████╔╝╚██████╔╝███████╗███████║
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝
-
-                                                Yasser The Frog
 ========================================
-Created By Yezz123
-Server: https://discord.gg/YHSBsER
-Facebook: facebook.com/xoxo00y/
-Ver: 2.0
-----
-ONLY FOR TERMUX!
-----
-==========================================
 00. Turn your Android into Hacking Machine.
 ------------------------------------------
-1. Install Nmap 
+1. Install Nmap     
 2. Install Hydra
 3. Install SQLMap
 4. Install Metasploit
@@ -39,8 +23,8 @@ ONLY FOR TERMUX!
 9. Install Weeman
 10. Install IPGeoLocation
 11. Install Cupp
-12. Instagram Bruteforcer (instahack)
-13. Twitter Bruteforcer   (TwitterSniper)
+12. Install Instagram Bruteforcer
+13. Install Twitter Bruteforcer
 14. Install Ubuntu
 15. Install Fedora
 16. Install viSQL
@@ -65,7 +49,7 @@ while loop:
         print("================================")
         if hm == "y":
             print("========================================================")
-            print("[+] Please put down you android and go to dance with ariana...")
+            print("[+] Working.......")
             print("Because this will take a long time.")
             print("========================================================")
             os.system("pkg update")
@@ -459,5 +443,11 @@ while loop:
             else:
                 break
     elif what == "99":
-        print("Good Bye & remember Fuck the Police.   tools created by Yezz123.....")
+        print("""
+ ░░░░░░   ░░░░░░   ░░░░░░  ░░░░░░  ░░░░░░  ░░    ░░ ░░░░░░░ 
+▒▒       ▒▒    ▒▒ ▒▒    ▒▒ ▒▒   ▒▒ ▒▒   ▒▒  ▒▒  ▒▒  ▒▒      
+▒▒   ▒▒▒ ▒▒    ▒▒ ▒▒    ▒▒ ▒▒   ▒▒ ▒▒▒▒▒▒    ▒▒▒▒   ▒▒▒▒▒   
+▓▓    ▓▓ ▓▓    ▓▓ ▓▓    ▓▓ ▓▓   ▓▓ ▓▓   ▓▓    ▓▓    ▓▓      
+ ██████   ██████   ██████  ██████  ██████     ██    ███████ 
+""")
         break
